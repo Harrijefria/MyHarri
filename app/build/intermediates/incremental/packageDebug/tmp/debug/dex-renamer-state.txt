@@ -1,0 +1,4 @@
+#Fri Mar 15 17:38:19 PDT 2019
+base.0=D\:\\AndroidStudio\\sampel code\\Bekup Android Studio\\project\\MyAndroidApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
